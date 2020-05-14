@@ -167,6 +167,15 @@ a:hover {
   color: #117964;
   text-decoration: underline;
 }
+a.mission {
+  color: #1311b8;
+  text-decoration: none;
+  background-color: transparent;
+}
+a.mission:hover {
+  color: #126454;
+  text-decoration: underline;
+}
 
 a:not([href]) {
   color: inherit;
