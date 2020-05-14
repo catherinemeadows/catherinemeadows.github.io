@@ -480,11 +480,6 @@ mark,
   height: auto;
 }
 
-.catProfile {
-  border-radius: 50%;
-  width: 15rem;
-}
-
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -10101,6 +10096,7 @@ h3 {
 }
 .masthead .masthead-avatar {
   width: 15rem;
+  border-radius: 50%;
 }
 
 @media (min-width: 992px) {
